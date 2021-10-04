@@ -1,8 +1,6 @@
 # The-Six-Degrees-of-Kevin-Bacon
 App that finds a connection between two actors bases on the movies they have starred in, using Breadth First Search implementation.
 
-### Six Degrees of Kevin Bacon
-
 ## Background
 
 According to the Six Degrees of Kevin Bacon game, anyone in the Hollywood film industry can be connected to Kevin Bacon within six steps, where each step consists of finding a film that two actors both starred in.
